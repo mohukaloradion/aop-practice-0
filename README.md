@@ -4,26 +4,21 @@
 # HackerRank: hackerrank.com/profile/mohukaloradion
 
 # Java, Javac --version:
-![java-javac.PNG](../../Desktop/aop-practice0-proofs/java-javac.PNG)
+# https://ibb.co/nNb1pRCR
 
 # Git, Git config --version --global --list:
-
-![git-terminal.PNG](../../Desktop/aop-practice0-proofs/git-terminal.PNG)
+# https://ibb.co/bgJy7RgH
 
 # Git ssh -T git@github.com:
-
-![terminal-proof.PNG](../../Desktop/aop-practice0-proofs/terminal-proof.PNG)
+# https://ibb.co/svnbS05X
 
 # Intellij IDEA:
-
-![idea-proof.PNG](../../Desktop/aop-practice0-proofs/idea-proof.PNG)
+# https://ibb.co/XZSGkybK
 
 # HackerRank:
-
-![hackerrank.PNG](../../Desktop/aop-practice0-proofs/hackerrank.PNG)
+# https://ibb.co/gbGnGnJb
 
 # ChatGPT:
-
-![chatgpt-proof.PNG](../../Desktop/aop-practice0-proofs/chatgpt-proof.PNG)
+# https://ibb.co/DHSSG58s
 
 # Claude Code: Нажаль відсутній :(
